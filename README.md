@@ -1,6 +1,6 @@
 # information retrieval
 
-Search engine using Lucene 
+Multithreaded search engine using Lucene 
 
 At start it generates some random wiki articles and the app window pops up with a search bar.
 
